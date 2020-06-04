@@ -37,3 +37,12 @@
 .navbar-dark{
 	background-color: #512DA8;
 }
+
+.bg-yellow{
+	background-color: #f9dc46;
+}
+
+#reverse_button{
+	border-radius: 10%;
+}
+
